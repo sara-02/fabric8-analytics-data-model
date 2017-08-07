@@ -1,1 +1,14 @@
-{"is_ref_stack": "true", "description": "Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application", "version": "1.0", "ecosystem": "maven", "name": "Spring Boot Actuator Starter", "license": "Apache-2.0", "source": "manually curated", "dependencies": {"org.springframework.boot:spring-boot-actuator": "1.5.2.RELEASE", "org.springframework.boot:spring-boot-starter": "1.5.2.RELEASE"}, "usage": "1"}
+{
+ "description": "Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application", 
+ "license": "Apache-2.0", 
+ "ecosystem": "maven", 
+ "is_ref_stack": "true", 
+ "source": "manually curated", 
+ "version": "1.0", 
+ "dependencies": {
+  "org.springframework.boot:spring-boot-actuator": "1.5.2.RELEASE", 
+  "org.springframework.boot:spring-boot-starter": "1.5.2.RELEASE"
+ }, 
+ "usage": "1", 
+ "name": "Spring Boot Actuator Starter"
+}
